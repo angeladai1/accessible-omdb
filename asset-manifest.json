@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/accessible-omdb/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/accessible-omdb/static/js/main.05790c87.chunk.js",
+    "main.js.map": "/accessible-omdb/static/js/main.05790c87.chunk.js.map",
+    "runtime-main.js": "/accessible-omdb/static/js/runtime-main.06e1aea3.js",
+    "runtime-main.js.map": "/accessible-omdb/static/js/runtime-main.06e1aea3.js.map",
+    "static/css/2.4adfd986.chunk.css": "/accessible-omdb/static/css/2.4adfd986.chunk.css",
+    "static/js/2.ff8c8f68.chunk.js": "/accessible-omdb/static/js/2.ff8c8f68.chunk.js",
+    "static/js/2.ff8c8f68.chunk.js.map": "/accessible-omdb/static/js/2.ff8c8f68.chunk.js.map",
+    "static/js/3.24f9fee3.chunk.js": "/accessible-omdb/static/js/3.24f9fee3.chunk.js",
+    "static/js/3.24f9fee3.chunk.js.map": "/accessible-omdb/static/js/3.24f9fee3.chunk.js.map",
+    "index.html": "/accessible-omdb/index.html",
+    "static/css/2.4adfd986.chunk.css.map": "/accessible-omdb/static/css/2.4adfd986.chunk.css.map",
+    "static/css/main.8c8b27cf.chunk.css.map": "/accessible-omdb/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.ff8c8f68.chunk.js.LICENSE.txt": "/accessible-omdb/static/js/2.ff8c8f68.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/accessible-omdb/static/media/roboto-vietnamese-400-normal.52cebac0.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.06e1aea3.js",
+    "static/css/2.4adfd986.chunk.css",
+    "static/js/2.ff8c8f68.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.05790c87.chunk.js"
+  ]
+}
