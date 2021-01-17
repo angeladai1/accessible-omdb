@@ -25,7 +25,7 @@ const useStyles = makeStyles((theme) => ({
   },
 }));
 
-// const API_KEY = process.env.REACT_APP_OMDB_API_KEY;
+const API_KEY = process.env.REACT_APP_OMDB_API_KEY;
 
 function App() {
   const classes = useStyles();
@@ -34,7 +34,7 @@ function App() {
   const [nominations, setNominations] = useState([]);
 
   useEffect(() => {
-    fetch("http://www.omdbapi.com/?s=" + input + "&apikey=83cb5848&")
+    fetch("https://www.omdbapi.com/?s=" + input + "&apikey=83cb5848" + API_KEY + "&")
     .then((response) => response.json())
     .then(data => {
       results.current = data.Search ? data.Search.map((result) => {
