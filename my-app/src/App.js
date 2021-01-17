@@ -34,7 +34,7 @@ function App() {
   const [nominations, setNominations] = useState([]);
 
   useEffect(() => {
-    fetch("http://www.omdbapi.com/?s=" + input + "&apikey=" + API_KEY + "&")
+    fetch("http://www.omdbapi.com/?s=" + input + "&apikey=83cb5848&")
     .then((response) => response.json())
     .then(data => {
       results.current = data.Search ? data.Search.map((result) => {
