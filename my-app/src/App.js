@@ -25,7 +25,7 @@ const useStyles = makeStyles((theme) => ({
   },
 }));
 
-const API_KEY = process.env.REACT_APP_OMDB_API_KEY;
+// const API_KEY = process.env.REACT_APP_OMDB_API_KEY;
 
 function App() {
   const classes = useStyles();
